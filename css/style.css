@@ -26,3 +26,9 @@ color: #FFFFFF;
 .shoes-section,.bag-section{
 	margin-top: 80px;
 }
+.tuch-section{
+	height: 300px;
+	width: 100%;
+	background-color: #FCEAE8;
+	margin-top: 40px;
+}
