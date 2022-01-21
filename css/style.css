@@ -1,0 +1,13 @@
+.sider-section{
+	background-color: #FEEAE9;
+	margin-top: 80px;
+}
+.btn-color{
+background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+color: #fff;
+border: none;
+border-radius: 8px;
+padding: 12px 25px;
+border:none;
+
+}
